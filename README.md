@@ -1,0 +1,1 @@
+# Aplificando-funcionalidade-Heran-a.
