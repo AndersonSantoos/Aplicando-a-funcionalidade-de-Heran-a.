@@ -1,1 +1,1 @@
-# Aplificando-funcionalidade-Heran-a.
+Aplicando a funcionalidade de Herança.
